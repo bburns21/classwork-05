@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<!--Brooke BUrns, Project 2, 3/5/18-->
+<html>
+     <!--Brooke Burns Schedule starts here-->
+     <table border="black">
+         <!--Table Head section is here-->
+         <thead>
+              <tr>
+                  <th colspan="8">Brooke Burns semester 2 schedule</th>
+              </tr>
+              <tr>
+                  <th>&nbsp;</th>
+                  <th>Cycle 1</th>
+                  <th>Cycle 2</th>
+                  <th>Cycle 3</th>
+                  <th>Cycle 4</th>
+                  <th>Cycle 5</th>
+                  <th>Cycle 6</th>
+                  <th>Cycle 7</th>
+              </tr>
+        </thead>
+        <!--This is the body section-->
+        <tbody>
+              <tr>
+                   <th>8:15-8:55am<br/>Period 1</th>
+                   <td colspan="6">Webpage</td>
+                   <td>Algebra</td>
+              </tr>
+              <!--time for homeroom-->
+              <tr>
+                   <th>9:00-9:15am<br/>Homeroom</th>
+                   <td colspan="7">Homeroom</td>
+              </tr>
+              <tr>
+                   <th>9:20-10:00am<br/>flex</th>
+                   <td colspan="7">flex</td>
+              </tr>
+              <tr>
+                    <th>10:05-11:20am<br/>period 2</th>
+                    <td>Health</td>
+                    <td>Spanish</td>
+                    <td>algebra</td>
+                    <td>biology</td>
+                    <td>World Civ</td>
+                    <td>Intro to lit</td>
+                    <td>Sacred Scripture</td>
+              </tr>
+              <tr>
+                    <th>ll:25-11:50am<br/>Period 3-1</th>
+                    <td rowspan="2">spanish</td>
+                    <td>lunch 1</td>
+                    <td>Lunch 1</td>
+                    <td rowspan="2">World Civ</td>
+                    <td rowspan="2">Intro to Lit</td>
+                    <td>Lunch 1</td>
+                    <td>Lunch 1</td>
+              </tr>
+              <tr>
+                    <th>11:55am-12:10pm<br/>period 3-2</th>
+                    <td rowspan="2">Algebra</td>
+                    <td rowspan="2">Biology</td>
+                    <td rowspan="2">Sacred Scripture</td>
+                    <td rowspan="2">Health</td>
+              </tr>
+              <tr>
+                    <th>12:15-12:40pm<br/>Period 3-3</th>
+                    <td>Lunch 2</td>
+                    <td>Lunch 2</td>
+                    <td>Lunch 2</td>
+              </tr>
+              <tr>
+                    <th>12:45-1:35pm<br/>Period 4</th>
+                    <td>Intro to Lit</td>
+                    <td>Sacred Script</td>
+                    <td>health</td>
+                    <td>spanish</td>
+                    <td>algebra</td>
+                    <td>biology</td>
+                    <td>World Civ</td>
+              </tr>
+              <tr>
+                    <th>1:40-2:35pm<br/>Period 5</th>
+                    <td>biology</td>
+                    <td>World Civ</td>
+                    <td>Intro to lit</td>
+                    <td>Sacred Script</td>
+                    <td>health</td>
+                    <td>spanish</td>
+                    <td>&nbsp;</td>
+              </tr>
+        </tbody>
+        <!--Schools Done time to do homework and after school activities-->
+        <tfoot>
+              <tr>
+                   <th>After School<br/>activities</th>
+                   <td colspan="7">Dance Team, Dance classes, Aiding dance classes, homework<td>
+              </tr>
+        </tfoot>
+    </table>             
+</html>
