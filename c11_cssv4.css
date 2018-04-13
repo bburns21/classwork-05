@@ -1,0 +1,63 @@
+/*
+* Brooke Burns
+* March 27,2018
+*
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+
+/* Put body attributes here */
+
+body { 
+	background-color: green;
+	color: black;
+	font-family: "Times New Roman","Happy Monkey", Ariel;
+}
+
+h1 {
+   text-align: center;
+   font-size: 30pt;
+   text-decoration: underline;
+   background-color: #ee3e80;
+}
+
+h2, h4, h6{
+   background-color: rgb(6015030);
+}
+
+h3, h5{
+       background-color: MistyRose
+}
+
+a:link{
+       color: blue;
+}
+
+a:visited{
+          color: darkblue;
+}
+
+a:hover, a:focus{
+         background-color: limegreen;
+         color: goldenrod;
+}
+
+a:active{
+         background-color: #fff;
+         color: #000;
+}
+
+p{
+  background-color: green
+  color: black
+}
+
+img {
+    float: left;
+}
