@@ -1,0 +1,30 @@
+/*
+* Brooke Burns
+* March 27,2018
+*
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: green;
+	color: black;
+	font-family: "Times New Roman","Happy Monkey", Ariel;
+}
+
+h1 {
+   text-align: center;
+   font-size: 24pt;
+   text-decoration: underline;
+}
+
+img {
+    float: left;
+}
